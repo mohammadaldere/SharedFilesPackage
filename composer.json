@@ -1,6 +1,13 @@
 {
     "name": "mohammadaldere/shared-files",
     "description": "this package for files shared between our project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohammad",
+            "email": "mommde2000@gmail.com"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "SharedFiles\\": "src/"
