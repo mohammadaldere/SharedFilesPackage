@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'laravel/shared-files',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'name' => 'mohammadaldere/shared-files',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => 'af18c172fcd6413ac9257f8a4432cdb03953420b',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'laravel/shared-files' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+        'mohammadaldere/shared-files' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'af18c172fcd6413ac9257f8a4432cdb03953420b',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

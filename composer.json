@@ -1,5 +1,5 @@
 {
-    "name": "laravel/shared-files",
+    "name": "mohammadaldere/shared-files",
     "description": "this package for files shared between our project",
     "autoload": {
         "psr-4": {
